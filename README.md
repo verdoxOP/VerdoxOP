@@ -27,6 +27,10 @@
 
 ### 🚀 Featured Projects
 
+#### 🧠 [Toy Language Interpreter](https://github.com/verdoxOP/toy-lang)
+A from-scratch interpreter for a custom toy programming language — lexer, parser, and evaluator built without external libraries.
+`C`
+
 #### 🌍 [ClimateChecker (Ontdekstation013)](https://github.com/verdoxOP/ClimateChecker)
 Dutch climate visualization app mapping environmental data.
 `React` `MapLibre GL` `Spring Boot`
