@@ -10,6 +10,9 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 
 ---
@@ -17,6 +20,7 @@
 ### 🛠️ Tech Stack
 
 **Core:** Java · Spring Boot · Next.js · React · PostgreSQL · Docker · GitHub Actions (CI/CD)
+**Also using:** C++ · C# · Go
 **Currently learning:** C — diving into embedded/systems programming
 
 ---
