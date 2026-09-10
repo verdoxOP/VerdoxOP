@@ -1,52 +1,109 @@
-<h1 align="center">Hi, I'm Matt 👋</h1>
-<h3 align="center">IT student building full-stack projects</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&repeat=false&weight=700&size=42&pause=800&color=FF2D3D&center=true&vCenter=true&width=900&height=80&lines=%24+whoami;Matt+%E2%8A%B2+VerdoxOP" alt="Typing introduction" />
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+<table style="width:100%;table-layout:fixed;"><tr>
+<td width="600" valign="top">
 
-**Core:** Java · Spring Boot · Next.js · React · PostgreSQL · Docker · GitHub Actions (CI/CD)
-**Also using:** C++ · C# · Go
-**Currently learning:** C — diving into embedded/systems programming
+```zsh
+verdox@cachyos ~ $ cat about.conf
+```
+```ini
+[me]
+name   = Matt
+handle = VerdoxOP
+role   = IT Student · Developer
+
+[stack]
+os       = CachyOS (Arch) · Wayland · Hyprland
+langs    = Rust · TypeScript · Java · C · C# · Go · Dart · Python · Lua
+ui       = React.js · Next.js · Vue.js · TailwindCSS
+native   = Tauri v2 · Vite · GTK4 · WebKitGTK
+backend  = Java · Spring Boot · Rust
+desktop  = Layer Shell · systemd user services · IPC
+graphics = GLSL · desktop HUDs · native overlays
+data     = PostgreSQL · MySQL · SQLite · Firebase · Isar
+infra    = Docker · Kubernetes · GitHub Actions · Git
+cloud    = AWS · Cloudflare
+
+[field]
+main    = Desktop Tooling · Full Stack · Systems Projects
+current = C · Linux · building things from scratch
+```
+
+</td><td width="15">
+  <img src="./assets/profile-banner.svg" width="420" alt="VerdoxOP system panel" />
+</td></tr></table>
 
 ---
 
-### 🚀 Featured Projects
+<div align="center">
 
-#### 🧠 [Toy Language Interpreter](https://github.com/verdoxOP/toy-lang)
-A from-scratch interpreter for a custom toy programming language — lexer, parser, and evaluator built without external libraries.
-`C`
+```
+┌──────────────────────────────────────────────────────────┐
+│  "The only way to learn a new programming language is by  │
+│   writing programs in it."                                │
+│                                           — Dennis Ritchie │
+└──────────────────────────────────────────────────────────┘
+```
 
-#### 🌍 [ClimateChecker (Ontdekstation013)](https://github.com/verdoxOP/ClimateChecker)
-Dutch climate visualization app mapping environmental data.
-`React` `MapLibre GL` `Spring Boot`
-
-#### 🎨 [dualboard](https://github.com/verdoxOP/dualboard)
-Collaborative real-time drawing board.
-`Spring Boot` (backend) `Next.js` (frontend)
-
-#### 💻 [termfolio (matt-os)](https://github.com/verdoxOP/termfolio)
-SSH-accessible terminal portfolio you can connect to like a real OS.
-`React` `Ink` `TypeScript` `AWS`
+</div>
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=verdoxOP" width="60%" />
-</p>
+## <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=10000&color=FF2D3D&center=true&vCenter=true&width=900&lines=%3C+%2F+Selected+Projects+%3E&repeat=false" alt="Selected projects" />
+
+<a href="https://github.com/VerdoxOP/deskimon"><img src="https://github-readme-stats.zcy.dev/api/pin?username=VerdoxOP&repo=deskimon&theme=transparent&bg_color=00000000&border_radius=3&show_owner=true&hide_border=true&title_color=FF2D3D&text_color=D1D5DB&icon_color=25E0FF" /></a>
+<a href="https://github.com/VerdoxOP/toy-lang"><img src="https://github-readme-stats.zcy.dev/api/pin?username=VerdoxOP&repo=toy-lang&theme=transparent&bg_color=00000000&border_radius=3&show_owner=true&hide_border=true&title_color=FF2D3D&text_color=D1D5DB&icon_color=25E0FF" /></a>
+<a href="https://github.com/VerdoxOP/offline-reference-app"><img src="https://github-readme-stats.zcy.dev/api/pin?username=VerdoxOP&repo=offline-reference-app&theme=transparent&bg_color=00000000&border_radius=3&show_owner=true&hide_border=true&title_color=FF2D3D&text_color=D1D5DB&icon_color=25E0FF" /></a>
+<a href="https://github.com/VerdoxOP/dualboard-frontend"><img src="https://github-readme-stats.zcy.dev/api/pin?username=VerdoxOP&repo=dualboard-frontend&theme=transparent&bg_color=00000000&border_radius=3&show_owner=true&hide_border=true&title_color=FF2D3D&text_color=D1D5DB&icon_color=25E0FF" /></a>
+<a href="https://github.com/VerdoxOP/EzScan"><img src="https://github-readme-stats.zcy.dev/api/pin?username=VerdoxOP&repo=EzScan&theme=transparent&bg_color=00000000&border_radius=3&show_owner=true&hide_border=true&title_color=FF2D3D&text_color=D1D5DB&icon_color=25E0FF" /></a>
+<a href="https://github.com/VerdoxOP/FocusMode"><img src="https://github-readme-stats.zcy.dev/api/pin?username=VerdoxOP&repo=FocusMode&theme=transparent&bg_color=00000000&border_radius=3&show_owner=true&hide_border=true&title_color=FF2D3D&text_color=D1D5DB&icon_color=25E0FF" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+## <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=10000&color=FF2D3D&center=true&vCenter=true&width=900&lines=%3C+%2F+Git+Stats+%3E&repeat=false" alt="Git stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VerdoxOP&theme=transparent&ring=FF2D3D&fire=FF2D3D&hide_border=true&currStreakNum=FF2D3D&sideNums=FF2D3D&currStreakLabel=25E0FF&sideLabels=25E0FF&dates=D1D5DB&card_width=1000" alt="GitHub streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VerdoxOP&theme=high-contrast&hide_border=true&bg_color=00000000&color=FF2D3D&line=25E0FF&point=FF2D3D&area=true&area_color=FF2D3D22" alt="Contribution graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+## <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=10000&color=FF2D3D&center=true&vCenter=true&width=900&lines=%3C+%2F+Tech+Stack+%3E&repeat=false" alt="Tech stack" />
+
+</div>
+
+<details>
+<summary><b>⌿ &nbsp;Languages & application development</b></summary><br/>
+<p align="center"><img src="https://skillicons.dev/icons?i=rust,ts,js,java,c,cs,go,dart,python,lua,react,nextjs,vue,tailwind,vite,tauri&perline=16" alt="Languages and application development tools" /></p>
+</details>
+
+<details>
+<summary><b>☁ &nbsp;Backend & data</b></summary><br/>
+<p align="center"><img src="https://skillicons.dev/icons?i=spring,postgres,mysql,firebase&perline=8" alt="Backend and data tools" /><br/><sub>Also using Isar for local-first data.</sub></p>
+</details>
+
+<details>
+<summary><b>♾ &nbsp;Tools & desktop</b></summary><br/>
+<p align="center"><img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,cloudflare,git,githubactions,gtk&perline=8" alt="Tools and desktop technologies" /></p>
+</details>
+
+---
+
+<div align="center">
+  <a href="https://github.com/VerdoxOP?tab=repositories">[ browse all repositories ]</a>
+  <br/><br/>
+  <sub>VerdoxOP © 2026</sub>
+</div>

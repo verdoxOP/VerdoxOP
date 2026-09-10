@@ -1,0 +1,23 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07080C"/><stop offset="0.55" stop-color="#12070B"/><stop offset="1" stop-color="#07080C"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="105" y1="0" x2="1090" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF2D3D" stop-opacity="0"/><stop offset="0.22" stop-color="#FF2D3D"/><stop offset="0.72" stop-color="#FF2D3D"/><stop offset="1" stop-color="#25E0FF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-100%" width="160%" height="300%"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="scan" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 1H8" stroke="#fff" stroke-opacity=".035"/></pattern>
+  </defs>
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#scan)"/>
+  <path d="M0 52H1200M0 268H1200" stroke="#FF2D3D" stroke-opacity=".28"/>
+  <path d="M80 238H1120" stroke="url(#beam)" stroke-width="2" filter="url(#glow)"/>
+  <path d="M80 82H380M820 82H1120" stroke="#FF2D3D" stroke-opacity=".5"/>
+  <path d="M80 82V112M1120 82V112M80 208V238M1120 208V238" stroke="#FF2D3D" stroke-width="2"/>
+  <text x="106" y="122" fill="#FF2D3D" font-family="monospace" font-size="14" letter-spacing="4">VERDOXOP / DEVELOPER PROFILE</text>
+  <text x="102" y="187" fill="#F4F5F7" font-family="monospace" font-size="54" font-weight="700" letter-spacing="2">MATT.NABBE()</text>
+  <text x="106" y="216" fill="#25E0FF" font-family="monospace" font-size="15" letter-spacing="2">LINUX  •  DESKTOP TOOLS  •  SYSTEMS  •  FULL STACK</text>
+  <circle cx="1081" cy="111" r="7" fill="#FF2D3D" filter="url(#glow)"/>
+  <text x="1014" y="145" fill="#FF2D3D" font-family="monospace" font-size="12" letter-spacing="2">ONLINE</text>
+</svg>
