@@ -72,7 +72,6 @@ current = C · Linux · building things from scratch
 
 ## <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=10000&color=FF2D3D&center=true&vCenter=true&width=900&lines=%3C+%2F+Git+Stats+%3E&repeat=false" alt="Git stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VerdoxOP&theme=transparent&ring=FF2D3D&fire=FF2D3D&hide_border=true&currStreakNum=FF2D3D&sideNums=FF2D3D&currStreakLabel=25E0FF&sideLabels=25E0FF&dates=D1D5DB&card_width=1000" alt="GitHub streak" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VerdoxOP&theme=high-contrast&hide_border=true&bg_color=00000000&color=FF2D3D&line=25E0FF&point=FF2D3D&area=true&area_color=FF2D3D22" alt="Contribution graph" />
 
 </div>
