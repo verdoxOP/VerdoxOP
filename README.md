@@ -57,12 +57,9 @@ current = C · Linux · building things from scratch
 
 ## <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=10000&color=FF2D3D&center=true&vCenter=true&width=900&lines=%3C+%2F+Selected+Projects+%3E&repeat=false" alt="Selected projects" />
 
-<a href="https://github.com/VerdoxOP/deskimon"><img src="https://github-readme-stats.zcy.dev/api/pin?username=VerdoxOP&repo=deskimon&theme=transparent&bg_color=00000000&border_radius=3&show_owner=true&hide_border=true&title_color=FF2D3D&text_color=D1D5DB&icon_color=25E0FF" /></a>
 <a href="https://github.com/VerdoxOP/toy-lang"><img src="https://github-readme-stats.zcy.dev/api/pin?username=VerdoxOP&repo=toy-lang&theme=transparent&bg_color=00000000&border_radius=3&show_owner=true&hide_border=true&title_color=FF2D3D&text_color=D1D5DB&icon_color=25E0FF" /></a>
-<a href="https://github.com/VerdoxOP/offline-reference-app"><img src="https://github-readme-stats.zcy.dev/api/pin?username=VerdoxOP&repo=offline-reference-app&theme=transparent&bg_color=00000000&border_radius=3&show_owner=true&hide_border=true&title_color=FF2D3D&text_color=D1D5DB&icon_color=25E0FF" /></a>
-<a href="https://github.com/VerdoxOP/dualboard-frontend"><img src="https://github-readme-stats.zcy.dev/api/pin?username=VerdoxOP&repo=dualboard-frontend&theme=transparent&bg_color=00000000&border_radius=3&show_owner=true&hide_border=true&title_color=FF2D3D&text_color=D1D5DB&icon_color=25E0FF" /></a>
-<a href="https://github.com/VerdoxOP/EzScan"><img src="https://github-readme-stats.zcy.dev/api/pin?username=VerdoxOP&repo=EzScan&theme=transparent&bg_color=00000000&border_radius=3&show_owner=true&hide_border=true&title_color=FF2D3D&text_color=D1D5DB&icon_color=25E0FF" /></a>
-<a href="https://github.com/VerdoxOP/FocusMode"><img src="https://github-readme-stats.zcy.dev/api/pin?username=VerdoxOP&repo=FocusMode&theme=transparent&bg_color=00000000&border_radius=3&show_owner=true&hide_border=true&title_color=FF2D3D&text_color=D1D5DB&icon_color=25E0FF" /></a>
+<a href="https://github.com/VerdoxOP/deskimon"><img src="https://github-readme-stats.zcy.dev/api/pin?username=VerdoxOP&repo=deskimon&theme=transparent&bg_color=00000000&border_radius=3&show_owner=true&hide_border=true&title_color=FF2D3D&text_color=D1D5DB&icon_color=25E0FF" /></a>
+<a href="https://github.com/VerdoxOP/hyprland-inspector"><img src="https://github-readme-stats.zcy.dev/api/pin?username=VerdoxOP&repo=hyprland-inspector&theme=transparent&bg_color=00000000&border_radius=3&show_owner=true&hide_border=true&title_color=FF2D3D&text_color=D1D5DB&icon_color=25E0FF" /></a>
 
 </div>
 
